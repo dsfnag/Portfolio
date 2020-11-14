@@ -1,0 +1,1 @@
+# Django Dashboard - решение для хакатона
